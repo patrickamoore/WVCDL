@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "330341361940",
+    "firebase_url": "https://wvcdl-a1c70.firebaseio.com",
+    "project_id": "wvcdl-a1c70",
+    "storage_bucket": "wvcdl-a1c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330341361940:android:ea38160a408067a7",
+        "android_client_info": {
+          "package_name": "org.wvcdl.wvcdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330341361940-s88hmg6m70cossnurof1pbpleqh0rjm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.wvcdl.wvcdl",
+            "certificate_hash": "D9CB0DD4C63AA5666BBA4FE3C03EB7F6AB4F825F"
+          }
+        },
+        {
+          "client_id": "330341361940-qtbtqt52r219daoce2qegli0oe609ma5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAxuG6bZcmoZawKzbYCD4M7GXmaKnRwbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330341361940-qtbtqt52r219daoce2qegli0oe609ma5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
